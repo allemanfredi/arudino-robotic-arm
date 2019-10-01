@@ -7,4 +7,4 @@ the arm can work in manual mode with the playstation 3 joistic or in automatic m
 
 ## :electric_plug: Electrical Diagram
 
-<img src="./schema-elettrico.png" width="500" height="300">
+<img src="./schema.png" width="500" height="300">
